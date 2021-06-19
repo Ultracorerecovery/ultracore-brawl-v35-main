@@ -2,7 +2,7 @@
 Brawl Stars v35 Server
 
 
-## [Patch APK](https://drive.google.com/file/d/1NnoTQ_Ne04QDU43ID4I3-rWA938es1-6/view?usp=sharing)
+## [Patch APK](https://drive.google.com/file/d/1QGO3NB3-XYP8qvEN2BB_njvh1C338vAH/view?usp=sharing)
 
 ### Setup
 You need to change host in libxeonscript.so 
